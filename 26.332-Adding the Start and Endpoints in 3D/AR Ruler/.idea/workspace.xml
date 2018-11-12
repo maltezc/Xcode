@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dd515ba-ed25-43ff-9d97-c687c58b3188" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AR Ruler.xcodeproj/project.pbxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AR Ruler.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AR Ruler.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AR Ruler.xcodeproj/project.xcworkspace/xcuserdata/chrismaltez.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AR Ruler.xcodeproj/xcuserdata/chrismaltez.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AR Ruler/AppDelegate.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AR Ruler/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AR Ruler/Assets.xcassets/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AR Ruler/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AR Ruler/Base.lproj/Main.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AR Ruler/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AR Ruler/ViewController.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AR Ruler/art.scnassets/ship.scn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AR Ruler/art.scnassets/texture.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../24.315-How to Configure and Setup Your Project for AR/ARDicee/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../24.315-How to Configure and Setup Your Project for AR/ARDicee/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR Ruler/ViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/AR Ruler/ViewController.swift" afterDir="false" />
     </list>
     <ignored path="$USER_HOME$/Library/Developer/Xcode/DerivedData/AR_Ruler-ghymizlklnsxckatrtkpfjfyxoda/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,12 +24,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="swift" value="1387" />
+          <entry key="swift" value="1567" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Swift" value="1387" />
+          <entry key="Swift" value="1567" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open" />
@@ -58,8 +44,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AR Ruler/ViewController.swift">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="91" column="44" selection-start-line="91" selection-start-column="44" selection-end-line="91" selection-end-column="44" />
+            <state relative-caret-position="333">
+              <caret line="110" column="43" selection-start-line="110" selection-start-column="43" selection-end-line="110" selection-end-column="43" />
               <folding>
                 <element signature="e#151#163#0" expanded="true" />
               </folding>
@@ -72,6 +58,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>AddDot</find>
+      <find>touches</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -158,12 +145,12 @@
       <option name="presentableId" value="Default" />
       <updated>1541977698593</updated>
       <workItem from="1541977702161" duration="8000" />
-      <workItem from="1541977945637" duration="1998000" />
+      <workItem from="1541977945637" duration="2796000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2006000" />
+    <option name="totallyTimeSpent" value="2804000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="719" height="1050" extended-state="6" />
@@ -200,8 +187,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/AR Ruler/ViewController.swift">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="91" column="44" selection-start-line="91" selection-start-column="44" selection-end-line="91" selection-end-column="44" />
+        <state relative-caret-position="333">
+          <caret line="110" column="43" selection-start-line="110" selection-start-column="43" selection-end-line="110" selection-end-column="43" />
           <folding>
             <element signature="e#151#163#0" expanded="true" />
           </folding>
